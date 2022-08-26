@@ -18,10 +18,10 @@
 <br>
 
 #### It took around 3.5 hr to build 
- - livelink()
+ - # [Live Link](https://interior-design-landingpage-10.netlify.app/)
 
-# 
-![Screenshots](/assets/thumbnail.PNG)
+
+![Screenshots](/assets/thumbnail.png)
 ![Screenshots](/assets/thumbnail2.PNG)
 ![Screenshots](/assets/thumbnail3.PNG)
 ![Screenshots](/assets/thumbnail4.PNG)
